@@ -1,8 +1,8 @@
-# Detecting-COVID-19-from-X-Ray-Using-Deep-Learning-
+# -
 Using chest x ray to detect covid 19
 
 <code>
-  <h1 align="center">COVID-19 Dashboard</h1>
+  <h1 align="center">Detecting-COVID-19-from-X-Ray-Using-Deep-Learning</h1>
 </code>
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/anmolpant/Covid-19-Dashboard?logo=github&style=social)](https://github.com/anmolpant/) [![GitHub last commit](https://img.shields.io/github/last-commit/anmolpant/Covid-19-Dashboard?style=social&logo=git)](https://github.com/anmolpant/) [![GitHub stars](https://img.shields.io/github/stars/anmolpant/Covid-19-Dashboard?style=social)](https://github.com/anmolpant/Covid-19-Dashboard/stargazers) [![GitHub forks](https://img.shields.io/github/forks/anmolpant/Covid-19-Dashboard?style=social&logo=git)](https://github.com/anmolpant/Covid-19-Dashboard/network)
