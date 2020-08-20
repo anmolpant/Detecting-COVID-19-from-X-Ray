@@ -1,26 +1,22 @@
-# -
-Using chest x ray to detect covid 19
-
 <code>
   <h1 align="center">Detecting-COVID-19-from-X-Ray-Using-Deep-Learning</h1>
 </code>
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/anmolpant/Covid-19-Dashboard?logo=github&style=social)](https://github.com/anmolpant/) [![GitHub last commit](https://img.shields.io/github/last-commit/anmolpant/Covid-19-Dashboard?style=social&logo=git)](https://github.com/anmolpant/) [![GitHub stars](https://img.shields.io/github/stars/anmolpant/Covid-19-Dashboard?style=social)](https://github.com/anmolpant/Covid-19-Dashboard/stargazers) [![GitHub forks](https://img.shields.io/github/forks/anmolpant/Covid-19-Dashboard?style=social&logo=git)](https://github.com/anmolpant/Covid-19-Dashboard/network)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/anmolpant/Detecting-COVID-19-from-X-Ray?logo=github&style=social)](https://github.com/anmolpant/) [![GitHub last commit](https://img.shields.io/github/last-commit/anmolpant/Detecting-COVID-19-from-X-Ray?style=social&logo=git)](https://github.com/anmolpant/) [![GitHub stars](https://img.shields.io/github/stars/anmolpant/Detecting-COVID-19-from-X-Ray?style=social)](https://github.com/anmolpant/Detecting-COVID-19-from-X-Ray/stargazers) [![GitHub forks](https://img.shields.io/github/forks/anmolpant/Detecting-COVID-19-from-X-Ray?style=social&logo=git)](https://github.com/anmolpant/Detecting-COVID-19-from-X-Ray/network)
 
 <p align="center">
-Covid-19 dashboard is a tracking and visualization application created to monitor the spread of the novel coronavirus using HTML, CSS, Javascript and mapbox.
-The dashboard plots the coronavirus world statistics in the form of clusters on the world map and incorporates reverse geocoding to get the data for any particular point selected on the map. The data is fetched from an API that gets updated in real-time.
+The following project aims to implement a deep learning based solution using convolutional neural networks to predict whether or not the person is COVID positive.
 </p>
 
 <p align="center">
-<img src="https://github.com/anmolpant/Covid-19-Dashboard/blob/master/ss/covidDB.PNG" alt="COVID app Screenshot"/>
+<img src="https://github.com/anmolpant/Detecting-COVID-19-from-X-Ray/blob/master/assets/xray.jpeg" alt="Chest X-ray"/>
 </p>
 
-![Generic badge](https://img.shields.io/badge/COVID_19-Dashboard-green)
+![Generic badge](https://img.shields.io/badge/COVID_19-Detection-orange)
 
 ## Top Language
 
-[![GitHub top language](https://img.shields.io/github/languages/top/anmolpant/Covid-19-Dashboard?logo=jupyter&style=social)](https://github.com/anmolpant/)
+[![GitHub top language](https://img.shields.io/github/languages/top/anmolpant/Detecting-COVID-19-from-X-Ray?logo=jupyter&style=social)](https://github.com/anmolpant/)
 
 ## Instructions
 
